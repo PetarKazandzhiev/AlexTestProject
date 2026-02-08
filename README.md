@@ -1,6 +1,5 @@
 # AlexTestProject
 Testing GitHUub
-hi Odin 
 
 
 git add . - "Добавя(стейджва) всички променени файлове към сегашния commit"
